@@ -51,7 +51,7 @@ const extraflips = [
 	"The coin broke apart and rearranged itself into a statue ||of a coin||",
 	"The coin coded a coin bot that got more famous than this one",
 	"The coin bought Breath Of The Wild",
-	"The coin had a battle royal",
+	"The coin had a battle royale",
 	"The coin used an uno reverse card and flipped you",
 	"The coin got a pet and killed it",
 	"The coin broke down your door",
